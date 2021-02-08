@@ -1,4 +1,4 @@
-# Optimal control (Linear Quadratic- LQ) of a point mass in 2-D
+# Optimal control (Linear Quadratic- LQ) of a point mass in 2-D. Point to point control in 2-D
 # Point mass controlled by two input accelerations in X and Y dimensions.
 import numpy as np
 import matplotlib.pyplot as plt
